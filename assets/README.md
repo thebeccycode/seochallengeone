@@ -13,6 +13,8 @@ To make changes; clone the repository to your CPU, create a new branch and once 
 
 The link to the deployed page is https://thebeccycode.github.io/seochallengeone/
 
+![thebeccycode github io_seochallengeone_](https://user-images.githubusercontent.com/117289039/207305499-20a26f17-94cd-41aa-8a74-81e0712bac0e.png)
+
 ##issues
 
 At first my html and css wasn't connecting properly, but after reconfiguring the folders and checking my stylesheet link, it finally displayed the page as expected:
